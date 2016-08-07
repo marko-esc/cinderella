@@ -1,0 +1,25 @@
+{
+  "name": "cinderella",
+  "version": "0.4.0",
+  "description": "Simple cleanup for text files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marko-esc/cinderella.git"
+  },
+  "keywords": [
+    "simple",
+    "text",
+    "cleanup"
+  ],
+  "author": "marko-esc <lemoco@hotmail.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marko-esc/cinderella/issues"
+  },
+  "homepage": "https://github.com/marko-esc/cinderella#readme",
+  "devDependencies": {}
+}
